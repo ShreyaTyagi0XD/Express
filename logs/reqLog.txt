@@ -1,0 +1,5 @@
+20230506	14:39:32	e77e45c4-794c-4776-a65d-911d184d3359	POST	undefined	/auth
+20230506	14:41:15	47769b7a-9e38-4d29-a847-be2eedf0a104	GET	undefined	/register
+20230506	14:42:32	34df6ac5-8cc5-4a3c-a815-e698932b9c47	POST	undefined	/auth
+20230506	14:42:44	79ff1c88-547c-478c-994b-1678e2d580e1	GET	undefined	/employees
+20230506	14:51:25	b8f593f6-9700-4de8-81af-ba1349451139	GET	undefined	/logout
